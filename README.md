@@ -5,3 +5,10 @@
 **BLACKPINK**
 
     Lisa
+
+
+1. BuildSchool  
+    1. C#  
+    2. JavaScript  
+    3. JQuery  
+    4. MVC
